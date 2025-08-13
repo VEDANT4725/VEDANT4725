@@ -43,7 +43,8 @@
 > “Code like there's no bug, build like the world will use it.”
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vedant_4725) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vedant kolhe) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/vedantkolhe2005) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vedantkolhe2005@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vedant_4725)[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vedant%20kolhe)
+ [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/vedantkolhe2005) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vedantkolhe2005@gmail.com)
 
 <!-- Snake Game Repo View -->
 
